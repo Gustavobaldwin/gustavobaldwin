@@ -9,8 +9,7 @@
 
 **IT Administrator → Information Security / Blue Team**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=7dff7d&labelColor=0a0f0a&color=1f3a1f)](https://www.linkedin.com/in/SEU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-contact-0a0f0a?style=for-the-badge&logo=gmail&logoColor=7dff7d&labelColor=0a0f0a&color=1f3a1f)](mailto:SEU-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=7dff7d&labelColor=0a0f0a&color=1f3a1f)](https://www.linkedin.com/in/gustavo-baldwin-0717671ba/)
 <!-- Uncomment as you earn them:
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-profile-0a0f0a?style=for-the-badge&logo=tryhackme&logoColor=7dff7d&labelColor=0a0f0a&color=1f3a1f)](https://tryhackme.com/p/SEU-USUARIO)
 [![Cert](https://img.shields.io/badge/SC--200-in_progress-0a0f0a?style=for-the-badge&logo=microsoft&logoColor=7dff7d&labelColor=0a0f0a&color=1f3a1f)](#)
