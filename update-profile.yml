@@ -1,0 +1,45 @@
+name: Update profile SVGs
+
+on:
+  schedule:
+    - cron: "17 9 * * *"   # daily, 06:17 in Brasília (UTC-3)
+  workflow_dispatch:       # "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - "data/profile.json"
+      - "scripts/**"
+      - "source-photo.*"
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install pillow
+
+      - name: Render SVGs
+        working-directory: scripts
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python make_ascii.py
+          python make_info_card.py
+          python make_heatmap.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A *.svg source-prepped.png 2>/dev/null || git add -A *.svg
+          git diff --cached --quiet || git commit -m "chore: refresh profile svgs"
+          git push

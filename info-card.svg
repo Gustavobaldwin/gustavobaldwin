@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="400" viewBox="0 0 520 400" role="img" aria-label="Gustavo Macedo Baldwin - IT Administrator, moving into Information Security">
+  <rect x="0.5" y="0.5" width="519" height="399" rx="10" fill="#0a0f0a" stroke="#1f3a1f"/>
+  <circle cx="18" cy="16" r="5" fill="#2f6b2f"/><circle cx="34" cy="16" r="5" fill="#2f6b2f"/><circle cx="50" cy="16" r="5" fill="#7dff7d"/>
+  <text x="260.0" y="20" fill="#2f6b2f" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11" text-anchor="middle">gustavo@blueteam: ~</text>
+  <line x1="0" y1="32" x2="520" y2="32" stroke="#1f3a1f"/>
+  <g font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="13">
+    <text x="18" y="58.0" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="0.00s" fill="freeze"/><tspan fill="#4fbf4f">gustavo@blueteam</tspan><tspan fill="#2f6b2f">:~</tspan><tspan fill="#ffb000">$</tspan><tspan fill="#7dff7d"> whoami</tspan></text>
+    <text x="18" y="77.0" fill="#7dff7d" opacity="0" xml:space="preserve"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="0.22s" fill="freeze"/>Gustavo Macedo Baldwin</text>
+    <text x="18" y="96.0" fill="#4fbf4f" opacity="0" xml:space="preserve"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="0.44s" fill="freeze"/>IT Administrator, moving into Information Security</text>
+    <text x="18" y="115.0" fill="#2f6b2f" opacity="0" xml:space="preserve"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="0.66s" fill="freeze"/>Rio Grande do Sul, Brazil</text>
+    <text x="18" y="144.4" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="0.88s" fill="freeze"/><tspan fill="#4fbf4f">gustavo@blueteam</tspan><tspan fill="#2f6b2f">:~</tspan><tspan fill="#ffb000">$</tspan><tspan fill="#7dff7d"> ls ~/stack</tspan></text>
+    <text x="18" y="163.4" opacity="0" xml:space="preserve"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="1.10s" fill="freeze"/><tspan fill="#ffb000">identity/</tspan><tspan x="114" fill="#4fbf4f">M365  Entra ID  Intune  Exchange  AD</tspan></text>
+    <text x="18" y="182.4" opacity="0" xml:space="preserve"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="1.32s" fill="freeze"/><tspan fill="#ffb000">security/</tspan><tspan x="114" fill="#4fbf4f">EDR  MFA  BitLocker  Hardening</tspan></text>
+    <text x="18" y="201.4" opacity="0" xml:space="preserve"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="1.54s" fill="freeze"/><tspan fill="#ffb000">network/</tspan><tspan x="114" fill="#4fbf4f">FortiGate  VLANs  Omada</tspan></text>
+    <text x="18" y="220.4" opacity="0" xml:space="preserve"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="1.76s" fill="freeze"/><tspan fill="#ffb000">code/</tspan><tspan x="114" fill="#4fbf4f">PowerShell  Python  JavaScript</tspan></text>
+    <text x="18" y="249.9" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="1.98s" fill="freeze"/><tspan fill="#4fbf4f">gustavo@blueteam</tspan><tspan fill="#2f6b2f">:~</tspan><tspan fill="#ffb000">$</tspan><tspan fill="#7dff7d"> cat now.txt</tspan></text>
+    <text x="18" y="268.9" fill="#4fbf4f" opacity="0" xml:space="preserve"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="2.20s" fill="freeze"/>&gt; studying for security certifications</text>
+    <text x="18" y="287.9" fill="#4fbf4f" opacity="0" xml:space="preserve"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="2.42s" fill="freeze"/>&gt; automating M365 audit and compliance</text>
+    <text x="18" y="306.9" fill="#4fbf4f" opacity="0" xml:space="preserve"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="2.64s" fill="freeze"/>&gt; documenting infra as markdown</text>
+    <text x="18" y="336.3" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="2.86s" fill="freeze"/><tspan fill="#4fbf4f">gustavo@blueteam</tspan><tspan fill="#2f6b2f">:~</tspan><tspan fill="#ffb000">$</tspan><tspan fill="#7dff7d"> locale</tspan></text>
+    <text x="18" y="355.3" fill="#2f6b2f" opacity="0" xml:space="preserve"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="3.08s" fill="freeze"/>PT-BR (native)  EN (fluent)</text>
+    <text x="18" y="374.3" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="3.30s" fill="freeze"/><tspan fill="#4fbf4f">gustavo@blueteam</tspan><tspan fill="#2f6b2f">:~</tspan><tspan fill="#ffb000">$</tspan><tspan fill="#7dff7d"> █<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" begin="3.30s" repeatCount="indefinite"/></tspan></text>
+  </g>
+</svg>

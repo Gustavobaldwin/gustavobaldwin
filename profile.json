@@ -1,0 +1,20 @@
+{
+  "github_login": "Gustavobaldwin",
+  "prompt_user": "gustavo",
+  "prompt_host": "blueteam",
+  "name": "Gustavo Macedo Baldwin",
+  "role": "IT Administrator, moving into Information Security",
+  "location": "Rio Grande do Sul, Brazil",
+  "stack": [
+    ["identity/", "M365  Entra ID  Intune  Exchange  AD"],
+    ["security/", "EDR  MFA  BitLocker  Hardening"],
+    ["network/",  "FortiGate  VLANs  Omada"],
+    ["code/",     "PowerShell  Python  JavaScript"]
+  ],
+  "now": [
+    "studying for security certifications",
+    "automating M365 audit and compliance",
+    "documenting infra as markdown"
+  ],
+  "langs": "PT-BR (native)  EN (fluent)"
+}
